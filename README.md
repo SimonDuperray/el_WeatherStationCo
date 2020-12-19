@@ -1,4 +1,3 @@
-# el_WeatherStationCo
 # Connected Weather Station
 
 [-> Repository](https://github.com/SimonDuperray/el_WeatherStationCo)
